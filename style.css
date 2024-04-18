@@ -1,0 +1,17 @@
+/* style.css file used to provide info of theme and required to be displayed on dashboard in WP
+  Looks for specific comment values to display inside WP dashboard when checking theme
+  Theme Name = Sets the theme name in WP
+  Author = Name of creator of theme
+  Version = version number of theme
+*/
+
+/*
+  Theme Name: Fictional University
+  Author: Liam
+  Version: 1.0
+*/
+
+/* style rules declared here are loaded into the site via the wp_enqueue_scripts method in functions.php file (adds this style sheet to the site) */
+/* body {
+  color: red;
+} */
